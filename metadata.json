@@ -1,0 +1,7 @@
+{
+  "name": "Lazzat - Oziq-ovqat Yetkazib Berish",
+  "description": "Restoranlardan oziq-ovqatga buyurtma berish, menyuni ko'rib chiqish va buyurtmani real vaqtda kuzatish platformasi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
